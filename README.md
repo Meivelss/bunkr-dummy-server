@@ -1,15 +1,53 @@
+
 # bunkr-dummy-server
 
-To install dependencies:
+This dummy server was made for testing purposed for the [Bunkr](https://github.com/Meivelss/Bunkr-frontend) project.
+
+## To install dependencies:
 
 ```bash
 bun install
 ```
 
-To run:
+To run the server:
 
 ```bash
-bun run index.ts
+
+bun index.ts
+
 ```
 
-This project was created using `bun init` in bun v1.2.18. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+## Current endpoints
+
+### ``GET /entries``
+Responds with JSON mockup warehouse data.
+
+    generalID: string,
+    itemID: string
+    name: string
+    state: ItemState,
+    building: Building
+    chamber: Chamber
+    shelf: string
+
+
+## Types
+### Enums
+### ItemState
+    Available = 0
+    Reserved = 1
+    Borrowed = 2
+
+### Building
+    Warehouse = 0
+    MatInf = 1
+    XLO = 2
+
+### Chamber
+    First = 1
+    Second = 2
+    Third = 3
+    Forth = 4
+    Fifth = 5
+
+  
