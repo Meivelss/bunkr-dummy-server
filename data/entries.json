@@ -1,0 +1,1010 @@
+[
+  {
+    "generalID": "MKRZ5",
+    "itemID": "EVWYB",
+    "name": "Item-1772",
+    "state": 0,
+    "building": 1,
+    "chamber": 4,
+    "shelf": "Shelf-30"
+  },
+  {
+    "generalID": "KVCSB",
+    "itemID": "GRPAV",
+    "name": "Item-4199",
+    "state": 2,
+    "building": 0,
+    "chamber": 1,
+    "shelf": "Shelf-6"
+  },
+  {
+    "generalID": "EQ7GR",
+    "itemID": "TP4YR",
+    "name": "Item-4561",
+    "state": 2,
+    "building": 1,
+    "chamber": 1,
+    "shelf": "Shelf-16"
+  },
+  {
+    "generalID": "RTEE1",
+    "itemID": "5QBB3",
+    "name": "Item-5794",
+    "state": 0,
+    "building": 1,
+    "chamber": 2,
+    "shelf": "Shelf-19"
+  },
+  {
+    "generalID": "GYM76",
+    "itemID": "O0NBW",
+    "name": "Item-1368",
+    "state": 0,
+    "building": 1,
+    "chamber": 1,
+    "shelf": "Shelf-38"
+  },
+  {
+    "generalID": "WRQKL",
+    "itemID": "MC6JZ",
+    "name": "Item-7068",
+    "state": 2,
+    "building": 1,
+    "chamber": 2,
+    "shelf": "Shelf-30"
+  },
+  {
+    "generalID": "LNHHY",
+    "itemID": "AJL7C",
+    "name": "Item-9553",
+    "state": 2,
+    "building": 0,
+    "chamber": 4,
+    "shelf": "Shelf-32"
+  },
+  {
+    "generalID": "BYDQ5",
+    "itemID": "CU90R",
+    "name": "Item-1041",
+    "state": 2,
+    "building": 1,
+    "chamber": 2,
+    "shelf": "Shelf-44"
+  },
+  {
+    "generalID": "MMM0B",
+    "itemID": "GO1M0",
+    "name": "Item-4287",
+    "state": 2,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-23"
+  },
+  {
+    "generalID": "4G7YY",
+    "itemID": "2SOZR",
+    "name": "Item-5433",
+    "state": 1,
+    "building": 0,
+    "chamber": 1,
+    "shelf": "Shelf-8"
+  },
+  {
+    "generalID": "KM7J6",
+    "itemID": "5Z11R",
+    "name": "Item-5206",
+    "state": 2,
+    "building": 0,
+    "chamber": 2,
+    "shelf": "Shelf-4"
+  },
+  {
+    "generalID": "LBISS",
+    "itemID": "FOE1Q",
+    "name": "Item-3221",
+    "state": 1,
+    "building": 1,
+    "chamber": 1,
+    "shelf": "Shelf-22"
+  },
+  {
+    "generalID": "846MT",
+    "itemID": "7O2IK",
+    "name": "Item-8081",
+    "state": 2,
+    "building": 2,
+    "chamber": 1,
+    "shelf": "Shelf-32"
+  },
+  {
+    "generalID": "XIA9U",
+    "itemID": "NJ38T",
+    "name": "Item-2362",
+    "state": 1,
+    "building": 0,
+    "chamber": 3,
+    "shelf": "Shelf-9"
+  },
+  {
+    "generalID": "UF3WY",
+    "itemID": "ODBZ1",
+    "name": "Item-6828",
+    "state": 2,
+    "building": 1,
+    "chamber": 5,
+    "shelf": "Shelf-25"
+  },
+  {
+    "generalID": "E0CP7",
+    "itemID": "TCIR7",
+    "name": "Item-1060",
+    "state": 1,
+    "building": 1,
+    "chamber": 4,
+    "shelf": "Shelf-31"
+  },
+  {
+    "generalID": "Y42DI",
+    "itemID": "RPM2Y",
+    "name": "Item-6740",
+    "state": 2,
+    "building": 0,
+    "chamber": 4,
+    "shelf": "Shelf-48"
+  },
+  {
+    "generalID": "W5K4B",
+    "itemID": "LMI87",
+    "name": "Item-6997",
+    "state": 2,
+    "building": 2,
+    "chamber": 3,
+    "shelf": "Shelf-32"
+  },
+  {
+    "generalID": "5YQD1",
+    "itemID": "0MN0D",
+    "name": "Item-1284",
+    "state": 1,
+    "building": 1,
+    "chamber": 2,
+    "shelf": "Shelf-8"
+  },
+  {
+    "generalID": "7PKKP",
+    "itemID": "6GARE",
+    "name": "Item-6579",
+    "state": 2,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-20"
+  },
+  {
+    "generalID": "J4RG9",
+    "itemID": "EQW1I",
+    "name": "Item-6545",
+    "state": 1,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-10"
+  },
+  {
+    "generalID": "UICQV",
+    "itemID": "8JYZT",
+    "name": "Item-4380",
+    "state": 0,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-28"
+  },
+  {
+    "generalID": "EB6L4",
+    "itemID": "4WR6O",
+    "name": "Item-5899",
+    "state": 2,
+    "building": 0,
+    "chamber": 3,
+    "shelf": "Shelf-48"
+  },
+  {
+    "generalID": "SK0I3",
+    "itemID": "9QP9A",
+    "name": "Item-3875",
+    "state": 1,
+    "building": 2,
+    "chamber": 2,
+    "shelf": "Shelf-35"
+  },
+  {
+    "generalID": "D5VIJ",
+    "itemID": "O2I9F",
+    "name": "Item-9694",
+    "state": 2,
+    "building": 0,
+    "chamber": 4,
+    "shelf": "Shelf-13"
+  },
+  {
+    "generalID": "TG3VN",
+    "itemID": "W6M0Q",
+    "name": "Item-6867",
+    "state": 0,
+    "building": 0,
+    "chamber": 2,
+    "shelf": "Shelf-29"
+  },
+  {
+    "generalID": "788E3",
+    "itemID": "8A4SC",
+    "name": "Item-8056",
+    "state": 0,
+    "building": 1,
+    "chamber": 1,
+    "shelf": "Shelf-46"
+  },
+  {
+    "generalID": "1KFT1",
+    "itemID": "ZAEYG",
+    "name": "Item-1727",
+    "state": 0,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-46"
+  },
+  {
+    "generalID": "WPDW7",
+    "itemID": "65N29",
+    "name": "Item-4820",
+    "state": 1,
+    "building": 2,
+    "chamber": 2,
+    "shelf": "Shelf-21"
+  },
+  {
+    "generalID": "VUSHY",
+    "itemID": "2VR7A",
+    "name": "Item-7810",
+    "state": 0,
+    "building": 1,
+    "chamber": 5,
+    "shelf": "Shelf-24"
+  },
+  {
+    "generalID": "EXULE",
+    "itemID": "6XRFV",
+    "name": "Item-9588",
+    "state": 0,
+    "building": 1,
+    "chamber": 4,
+    "shelf": "Shelf-36"
+  },
+  {
+    "generalID": "9T43I",
+    "itemID": "VYZZ8",
+    "name": "Item-2512",
+    "state": 2,
+    "building": 0,
+    "chamber": 1,
+    "shelf": "Shelf-21"
+  },
+  {
+    "generalID": "0AD2C",
+    "itemID": "M93M0",
+    "name": "Item-9185",
+    "state": 2,
+    "building": 0,
+    "chamber": 2,
+    "shelf": "Shelf-2"
+  },
+  {
+    "generalID": "GENYV",
+    "itemID": "4AABA",
+    "name": "Item-9558",
+    "state": 0,
+    "building": 0,
+    "chamber": 5,
+    "shelf": "Shelf-30"
+  },
+  {
+    "generalID": "07FXA",
+    "itemID": "K1DDV",
+    "name": "Item-5774",
+    "state": 0,
+    "building": 0,
+    "chamber": 4,
+    "shelf": "Shelf-13"
+  },
+  {
+    "generalID": "SKGWT",
+    "itemID": "9ZJUY",
+    "name": "Item-7021",
+    "state": 1,
+    "building": 0,
+    "chamber": 3,
+    "shelf": "Shelf-36"
+  },
+  {
+    "generalID": "Q6NXW",
+    "itemID": "086VX",
+    "name": "Item-6926",
+    "state": 2,
+    "building": 2,
+    "chamber": 5,
+    "shelf": "Shelf-7"
+  },
+  {
+    "generalID": "1GRC5",
+    "itemID": "PAO98",
+    "name": "Item-5296",
+    "state": 1,
+    "building": 0,
+    "chamber": 5,
+    "shelf": "Shelf-36"
+  },
+  {
+    "generalID": "99T7Y",
+    "itemID": "DOQYJ",
+    "name": "Item-1989",
+    "state": 0,
+    "building": 2,
+    "chamber": 2,
+    "shelf": "Shelf-34"
+  },
+  {
+    "generalID": "6P1SV",
+    "itemID": "6ZHV7",
+    "name": "Item-4696",
+    "state": 2,
+    "building": 1,
+    "chamber": 1,
+    "shelf": "Shelf-45"
+  },
+  {
+    "generalID": "KBLB2",
+    "itemID": "95RQI",
+    "name": "Item-3219",
+    "state": 2,
+    "building": 1,
+    "chamber": 4,
+    "shelf": "Shelf-13"
+  },
+  {
+    "generalID": "P2FOA",
+    "itemID": "PQ1RG",
+    "name": "Item-4960",
+    "state": 2,
+    "building": 2,
+    "chamber": 3,
+    "shelf": "Shelf-34"
+  },
+  {
+    "generalID": "I8CA3",
+    "itemID": "AS3UI",
+    "name": "Item-9629",
+    "state": 2,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-49"
+  },
+  {
+    "generalID": "OV40N",
+    "itemID": "NCREB",
+    "name": "Item-5733",
+    "state": 0,
+    "building": 0,
+    "chamber": 3,
+    "shelf": "Shelf-37"
+  },
+  {
+    "generalID": "WGNTD",
+    "itemID": "WT3QP",
+    "name": "Item-7686",
+    "state": 1,
+    "building": 1,
+    "chamber": 1,
+    "shelf": "Shelf-21"
+  },
+  {
+    "generalID": "EUN2O",
+    "itemID": "U9N05",
+    "name": "Item-7512",
+    "state": 2,
+    "building": 1,
+    "chamber": 3,
+    "shelf": "Shelf-33"
+  },
+  {
+    "generalID": "JTL1Z",
+    "itemID": "D7VIJ",
+    "name": "Item-8902",
+    "state": 0,
+    "building": 0,
+    "chamber": 5,
+    "shelf": "Shelf-16"
+  },
+  {
+    "generalID": "L32NB",
+    "itemID": "84Q15",
+    "name": "Item-6299",
+    "state": 1,
+    "building": 1,
+    "chamber": 3,
+    "shelf": "Shelf-20"
+  },
+  {
+    "generalID": "KOML5",
+    "itemID": "4CH7I",
+    "name": "Item-8830",
+    "state": 2,
+    "building": 1,
+    "chamber": 3,
+    "shelf": "Shelf-1"
+  },
+  {
+    "generalID": "N5FQU",
+    "itemID": "32R62",
+    "name": "Item-1562",
+    "state": 0,
+    "building": 1,
+    "chamber": 3,
+    "shelf": "Shelf-20"
+  },
+  {
+    "generalID": "LEG5V",
+    "itemID": "43HE3",
+    "name": "Item-1258",
+    "state": 1,
+    "building": 0,
+    "chamber": 5,
+    "shelf": "Shelf-50"
+  },
+  {
+    "generalID": "RYIFK",
+    "itemID": "P0ABA",
+    "name": "Item-5863",
+    "state": 1,
+    "building": 2,
+    "chamber": 5,
+    "shelf": "Shelf-47"
+  },
+  {
+    "generalID": "3DQK8",
+    "itemID": "X9RA2",
+    "name": "Item-9569",
+    "state": 1,
+    "building": 1,
+    "chamber": 3,
+    "shelf": "Shelf-22"
+  },
+  {
+    "generalID": "YNRXF",
+    "itemID": "1MJDA",
+    "name": "Item-8374",
+    "state": 2,
+    "building": 2,
+    "chamber": 2,
+    "shelf": "Shelf-47"
+  },
+  {
+    "generalID": "M2I18",
+    "itemID": "7OUDX",
+    "name": "Item-2880",
+    "state": 0,
+    "building": 2,
+    "chamber": 1,
+    "shelf": "Shelf-15"
+  },
+  {
+    "generalID": "3RCC7",
+    "itemID": "I92WS",
+    "name": "Item-9976",
+    "state": 0,
+    "building": 1,
+    "chamber": 5,
+    "shelf": "Shelf-9"
+  },
+  {
+    "generalID": "Z6FVF",
+    "itemID": "D9EKA",
+    "name": "Item-4125",
+    "state": 0,
+    "building": 1,
+    "chamber": 3,
+    "shelf": "Shelf-22"
+  },
+  {
+    "generalID": "JRSXD",
+    "itemID": "LTEA4",
+    "name": "Item-1485",
+    "state": 0,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-20"
+  },
+  {
+    "generalID": "6O2EB",
+    "itemID": "J8DRT",
+    "name": "Item-3270",
+    "state": 1,
+    "building": 0,
+    "chamber": 5,
+    "shelf": "Shelf-18"
+  },
+  {
+    "generalID": "FIW78",
+    "itemID": "UGG1M",
+    "name": "Item-2706",
+    "state": 1,
+    "building": 1,
+    "chamber": 2,
+    "shelf": "Shelf-42"
+  },
+  {
+    "generalID": "T6OI8",
+    "itemID": "DJY31",
+    "name": "Item-6748",
+    "state": 0,
+    "building": 1,
+    "chamber": 3,
+    "shelf": "Shelf-48"
+  },
+  {
+    "generalID": "AVOEE",
+    "itemID": "CQ1E8",
+    "name": "Item-1086",
+    "state": 2,
+    "building": 0,
+    "chamber": 2,
+    "shelf": "Shelf-18"
+  },
+  {
+    "generalID": "HX16N",
+    "itemID": "5D2HB",
+    "name": "Item-9282",
+    "state": 2,
+    "building": 2,
+    "chamber": 1,
+    "shelf": "Shelf-37"
+  },
+  {
+    "generalID": "QJ6BP",
+    "itemID": "TD0KE",
+    "name": "Item-7902",
+    "state": 1,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-20"
+  },
+  {
+    "generalID": "GD7SK",
+    "itemID": "C96X8",
+    "name": "Item-1767",
+    "state": 1,
+    "building": 2,
+    "chamber": 5,
+    "shelf": "Shelf-36"
+  },
+  {
+    "generalID": "MN4TC",
+    "itemID": "1E171",
+    "name": "Item-3102",
+    "state": 0,
+    "building": 2,
+    "chamber": 3,
+    "shelf": "Shelf-46"
+  },
+  {
+    "generalID": "A42T1",
+    "itemID": "Y1WYW",
+    "name": "Item-8136",
+    "state": 1,
+    "building": 1,
+    "chamber": 2,
+    "shelf": "Shelf-44"
+  },
+  {
+    "generalID": "HFG5Z",
+    "itemID": "7ILTJ",
+    "name": "Item-7559",
+    "state": 2,
+    "building": 0,
+    "chamber": 1,
+    "shelf": "Shelf-3"
+  },
+  {
+    "generalID": "RC8CO",
+    "itemID": "81IS5",
+    "name": "Item-6798",
+    "state": 0,
+    "building": 0,
+    "chamber": 5,
+    "shelf": "Shelf-43"
+  },
+  {
+    "generalID": "GIRMZ",
+    "itemID": "FNRN8",
+    "name": "Item-9356",
+    "state": 0,
+    "building": 1,
+    "chamber": 5,
+    "shelf": "Shelf-13"
+  },
+  {
+    "generalID": "UFX59",
+    "itemID": "M6E7D",
+    "name": "Item-4332",
+    "state": 0,
+    "building": 2,
+    "chamber": 1,
+    "shelf": "Shelf-44"
+  },
+  {
+    "generalID": "ASODW",
+    "itemID": "33FYW",
+    "name": "Item-4940",
+    "state": 2,
+    "building": 2,
+    "chamber": 1,
+    "shelf": "Shelf-45"
+  },
+  {
+    "generalID": "UW0D3",
+    "itemID": "YRCHB",
+    "name": "Item-1248",
+    "state": 0,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-43"
+  },
+  {
+    "generalID": "JNY4A",
+    "itemID": "CSZA2",
+    "name": "Item-9908",
+    "state": 0,
+    "building": 2,
+    "chamber": 3,
+    "shelf": "Shelf-44"
+  },
+  {
+    "generalID": "NT8B3",
+    "itemID": "TAFE1",
+    "name": "Item-8805",
+    "state": 0,
+    "building": 1,
+    "chamber": 5,
+    "shelf": "Shelf-33"
+  },
+  {
+    "generalID": "CKPAO",
+    "itemID": "K5COP",
+    "name": "Item-8987",
+    "state": 2,
+    "building": 0,
+    "chamber": 2,
+    "shelf": "Shelf-11"
+  },
+  {
+    "generalID": "5140Q",
+    "itemID": "QGIP8",
+    "name": "Item-5889",
+    "state": 2,
+    "building": 1,
+    "chamber": 4,
+    "shelf": "Shelf-44"
+  },
+  {
+    "generalID": "M6EC0",
+    "itemID": "6KPEW",
+    "name": "Item-1158",
+    "state": 0,
+    "building": 2,
+    "chamber": 2,
+    "shelf": "Shelf-38"
+  },
+  {
+    "generalID": "7D511",
+    "itemID": "R4FCJ",
+    "name": "Item-3511",
+    "state": 0,
+    "building": 2,
+    "chamber": 5,
+    "shelf": "Shelf-22"
+  },
+  {
+    "generalID": "DZ51W",
+    "itemID": "PMYU2",
+    "name": "Item-7621",
+    "state": 1,
+    "building": 1,
+    "chamber": 1,
+    "shelf": "Shelf-35"
+  },
+  {
+    "generalID": "XMCNQ",
+    "itemID": "KSPMR",
+    "name": "Item-9592",
+    "state": 1,
+    "building": 2,
+    "chamber": 5,
+    "shelf": "Shelf-36"
+  },
+  {
+    "generalID": "6ORDN",
+    "itemID": "89W22",
+    "name": "Item-8201",
+    "state": 2,
+    "building": 1,
+    "chamber": 4,
+    "shelf": "Shelf-27"
+  },
+  {
+    "generalID": "IMWAG",
+    "itemID": "AMJ9F",
+    "name": "Item-4915",
+    "state": 0,
+    "building": 0,
+    "chamber": 4,
+    "shelf": "Shelf-29"
+  },
+  {
+    "generalID": "KX3F8",
+    "itemID": "B1SQ4",
+    "name": "Item-1734",
+    "state": 1,
+    "building": 2,
+    "chamber": 3,
+    "shelf": "Shelf-21"
+  },
+  {
+    "generalID": "H51MI",
+    "itemID": "QAWD4",
+    "name": "Item-6267",
+    "state": 0,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-3"
+  },
+  {
+    "generalID": "ZW8IC",
+    "itemID": "NI5SD",
+    "name": "Item-8845",
+    "state": 1,
+    "building": 1,
+    "chamber": 2,
+    "shelf": "Shelf-46"
+  },
+  {
+    "generalID": "T2VAJ",
+    "itemID": "ZMJ3L",
+    "name": "Item-2383",
+    "state": 1,
+    "building": 2,
+    "chamber": 1,
+    "shelf": "Shelf-11"
+  },
+  {
+    "generalID": "Q1Y9B",
+    "itemID": "YRMDX",
+    "name": "Item-4456",
+    "state": 2,
+    "building": 1,
+    "chamber": 5,
+    "shelf": "Shelf-29"
+  },
+  {
+    "generalID": "3AN7M",
+    "itemID": "7BNMA",
+    "name": "Item-3108",
+    "state": 2,
+    "building": 2,
+    "chamber": 4,
+    "shelf": "Shelf-9"
+  },
+  {
+    "generalID": "N9TP8",
+    "itemID": "F0XLE",
+    "name": "Item-8517",
+    "state": 0,
+    "building": 0,
+    "chamber": 1,
+    "shelf": "Shelf-47"
+  },
+  {
+    "generalID": "W9JIK",
+    "itemID": "UUD23",
+    "name": "Item-8974",
+    "state": 2,
+    "building": 1,
+    "chamber": 4,
+    "shelf": "Shelf-31"
+  },
+  {
+    "generalID": "0JEAU",
+    "itemID": "3Q0M2",
+    "name": "Item-2871",
+    "state": 0,
+    "building": 0,
+    "chamber": 2,
+    "shelf": "Shelf-17"
+  },
+  {
+    "generalID": "4DYS2",
+    "itemID": "RTA9V",
+    "name": "Item-6621",
+    "state": 1,
+    "building": 2,
+    "chamber": 2,
+    "shelf": "Shelf-48"
+  },
+  {
+    "generalID": "QIFLP",
+    "itemID": "1GK4L",
+    "name": "Item-3110",
+    "state": 0,
+    "building": 2,
+    "chamber": 3,
+    "shelf": "Shelf-44"
+  },
+  {
+    "generalID": "YGRAA",
+    "itemID": "JYJTN",
+    "name": "Item-6551",
+    "state": 0,
+    "building": 0,
+    "chamber": 5,
+    "shelf": "Shelf-46"
+  },
+  {
+    "generalID": "KRFL7",
+    "itemID": "FH1JO",
+    "name": "Item-5484",
+    "state": 2,
+    "building": 0,
+    "chamber": 3,
+    "shelf": "Shelf-17"
+  },
+  {
+    "generalID": "ONZWM",
+    "itemID": "IX8Q3",
+    "name": "Item-8212",
+    "state": 2,
+    "building": 0,
+    "chamber": 4,
+    "shelf": "Shelf-35"
+  },
+  {
+    "generalID": "B40DR",
+    "itemID": "JB0MN",
+    "name": "Item-3978",
+    "state": 2,
+    "building": 0,
+    "chamber": 4,
+    "shelf": "Shelf-8"
+  },
+  {
+    "generalID": "FCBVD",
+    "itemID": "1ZWHL",
+    "name": "Item-7073",
+    "state": 0,
+    "building": 2,
+    "chamber": 5,
+    "shelf": "Shelf-3"
+  },
+  {
+    "generalID": "A70FB",
+    "itemID": "81U3A",
+    "name": "Item-5592",
+    "state": 0,
+    "building": 2,
+    "chamber": 3,
+    "shelf": "Shelf-19"
+  },
+  {
+    "generalID": "V0W1I",
+    "itemID": "QGB5O",
+    "name": "Item-7347",
+    "state": 2,
+    "building": 0,
+    "chamber": 1,
+    "shelf": "Shelf-43"
+  },
+  {
+    "generalID": "702NU",
+    "itemID": "E2J1Z",
+    "name": "Item-7666",
+    "state": 0,
+    "building": 0,
+    "chamber": 3,
+    "shelf": "Shelf-11"
+  },
+  {
+    "generalID": "U002A",
+    "itemID": "RY65O",
+    "name": "Item-6077",
+    "state": 2,
+    "building": 0,
+    "chamber": 4,
+    "shelf": "Shelf-14"
+  },
+  {
+    "generalID": "9X6XB",
+    "itemID": "USH9U",
+    "name": "Item-5971",
+    "state": 0,
+    "building": 2,
+    "chamber": 1,
+    "shelf": "Shelf-18"
+  },
+  {
+    "generalID": "H1BIN",
+    "itemID": "THQ63",
+    "name": "Item-7020",
+    "state": 2,
+    "building": 2,
+    "chamber": 5,
+    "shelf": "Shelf-22"
+  },
+  {
+    "generalID": "EZCNI",
+    "itemID": "D9IC2",
+    "name": "Item-9744",
+    "state": 0,
+    "building": 0,
+    "chamber": 4,
+    "shelf": "Shelf-19"
+  },
+  {
+    "generalID": "Y61YR",
+    "itemID": "6UR9H",
+    "name": "Item-6196",
+    "state": 0,
+    "building": 2,
+    "chamber": 3,
+    "shelf": "Shelf-28"
+  },
+  {
+    "generalID": "2TMVG",
+    "itemID": "0OYJX",
+    "name": "Item-7839",
+    "state": 1,
+    "building": 0,
+    "chamber": 5,
+    "shelf": "Shelf-2"
+  },
+  {
+    "generalID": "DK1QX",
+    "itemID": "037YW",
+    "name": "Item-3248",
+    "state": 1,
+    "building": 1,
+    "chamber": 3,
+    "shelf": "Shelf-39"
+  },
+  {
+    "generalID": "9IVMI",
+    "itemID": "A2FGN",
+    "name": "Item-4452",
+    "state": 2,
+    "building": 1,
+    "chamber": 3,
+    "shelf": "Shelf-45"
+  },
+  {
+    "generalID": "QZGR4",
+    "itemID": "I3HJU",
+    "name": "Item-9028",
+    "state": 1,
+    "building": 2,
+    "chamber": 1,
+    "shelf": "Shelf-40"
+  },
+  {
+    "generalID": "DMWUG",
+    "itemID": "K46L6",
+    "name": "Item-7874",
+    "state": 2,
+    "building": 2,
+    "chamber": 1,
+    "shelf": "Shelf-49"
+  }
+]
