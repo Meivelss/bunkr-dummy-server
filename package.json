@@ -1,6 +1,9 @@
 {
   "name": "bunkr-dummy-server",
   "module": "index.ts",
+  "scripts": {
+    "dev": "bun --watch run index.ts"
+  },
   "type": "module",
   "private": true,
   "devDependencies": {
@@ -10,8 +13,10 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@sinclair/typebox": "^0.34.37",
     "@types/express": "^5.0.3",
     "express": "^5.1.0",
+    "install": "^0.13.0",
     "multer": "^2.0.1"
   }
 }

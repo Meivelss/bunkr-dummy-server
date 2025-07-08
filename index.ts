@@ -33,6 +33,34 @@ app.delete("/entries/:id", (req, res) => {
   res.status(200).json({ message: 'Deleted if existed' });
 });
 
+app.post("/entries/:id", (req, res) => {
+  console.log("POST route hit:", req.params.id);
+
+  const id = req.params.id;
+  const newEntry = req.body;
+
+  const raw = fs.readFileSync("data/entries.json", "utf-8");
+  const data: Response[] = JSON.parse(raw);
+  const index = data.findIndex(item => item.itemID === id);
+
+  let alreadyExists: boolean = false;
+
+
+  if (index != -1) {
+    console.log("Entry already exists, updating its values...");
+    data[index] = newEntry;
+    alreadyExists = true;
+  }
+  else {
+    console.log("Creating a new entry...");
+    data.push(newEntry);
+  }
+
+  fs.writeFileSync("data/entries.json", JSON.stringify(data, null, 2));
+
+  res.status(200).json({ message: `Entry ${id} ${alreadyExists ? "updated" : "created"}` });
+})
+
 app.listen(port, '0.0.0.0', () => {
   console.log("Hello from Bunkr dummy server! :)");
   console.log(`Listening on port ${port}...`);
